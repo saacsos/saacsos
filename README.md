@@ -2,6 +2,8 @@
 
 [![GitHub saacsos](https://img.shields.io/github/followers/saacsos?label=follow&style=social)](https://github.com/saacsos)
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=saacsos&theme=github-light&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
 ```php
 <?php
 
